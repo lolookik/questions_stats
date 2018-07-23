@@ -1,3 +1,1 @@
-# questions_stats
- 
-so here is the code I use to generate the question for the exam. might have been heavy handed on the overall number of questions though...
+Everything moved to gitlab and deleted from here. I once had a skype account. I know what to expect.
